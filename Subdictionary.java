@@ -133,12 +133,7 @@ Subdictionary.sort(a1);
 		pw.close();
 		System.out.println("Output file name SubDictionary.txt is created and you can check it now.");
 		System.out.println("Thankyou for using!");
-		for (int jkk = 0; jkk < a1.size(); jkk++) {
-			System.out.println(a1.get(jkk));
-
-		}for (int j2 = 0; j2 < a1.size(); j2++) {
-			System.out.println(a1.get(j2));
-		}
+		
 
 	}
 }
